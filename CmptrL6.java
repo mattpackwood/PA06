@@ -1,6 +1,6 @@
 /* Matt Packwood, Orchard Ridge Campus, Monday Evening Class, Fall Semester 2003
  *
- * Computer PA06: Modify PA05 with repetition logic from C8, selection logic and
+ * PA06: Modify PA05 with repetition logic from C8, selection logic and
  * ActionListener event handling from C7 and Adjustment Listener event handling
  * from C6 to animate a jack O' lantern (JOL) display per specs on the screen
  * of the computer figure from previous PExs
